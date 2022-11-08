@@ -4,6 +4,13 @@
 /node_modules
 /.pnp
 .pnp.js
+.next
+public
+node_modules
+yarn.lock
+package-lock.json
+**/*.test.js
+coverage
 
 # testing
 /coverage
